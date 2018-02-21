@@ -43,3 +43,5 @@ def print_list (l, numbered = False, bullet_character = "-"):
 print_list(["cats", "in", "space"])
 
 print_list(["cats", "in", "space"], True)
+
+print_list(["cats", "in", "space", "Univers"], True)
